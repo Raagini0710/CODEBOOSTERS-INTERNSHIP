@@ -86,3 +86,4 @@ const text = document.querySelector(".text2");
         textload();
 </script>
 </body>
+</html>
